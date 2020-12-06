@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios", "Usuarios.py\Usuarios.csproj", "{B99A63F8-9A6F-4018-9A5E-C374217BEB82}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador See-Arch", "Usuarios.py\Instalador\Instalador See-Arch\Instalador See-Arch.vdproj", "{DA37E78F-F3B3-4F47-BCE0-5A5316FCCD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99A63F8-9A6F-4018-9A5E-C374217BEB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99A63F8-9A6F-4018-9A5E-C374217BEB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99A63F8-9A6F-4018-9A5E-C374217BEB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99A63F8-9A6F-4018-9A5E-C374217BEB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA37E78F-F3B3-4F47-BCE0-5A5316FCCD37}.Debug|Any CPU.ActiveCfg = Debug
+		{DA37E78F-F3B3-4F47-BCE0-5A5316FCCD37}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1044A9C4-E3BE-4A83-B816-D91527EDB136}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\bin\Debug\Usuarios.py.exe.config
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\bin\Debug\Usuarios.py.exe
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\bin\Debug\Usuarios.py.pdb
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.csprojAssemblyReference.cache
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.Properties.Resources.resources
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.exe
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.pdb
+C:\Users\leonardo\source\repos\Usuarios.py\Usuarios.py\obj\Debug\Usuarios.py.frmSplash.resources
